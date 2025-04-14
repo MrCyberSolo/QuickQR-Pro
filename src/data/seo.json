@@ -1,0 +1,125 @@
+{
+  "general": {
+    "title": "QuickQR Pro - Fast & Customizable QR Code Generator",
+    "description": "Create professional QR codes for URLs, WiFi, vCards, and more with QuickQR Pro. Customize colors, add logos, and download in multiple formats. No sign-up required.",
+    "keywords": "QR code generator, custom QR codes, free QR code maker, QR code with logo, WiFi QR code, vCard QR code",
+    "language": "en",
+    "canonicalUrl": "https://quickqrpro.com",
+    "favicon": "/favicon.ico"
+  },
+  "openGraph": {
+    "title": "QuickQR Pro - Professional QR Code Generator",
+    "description": "Generate beautiful, customizable QR codes instantly. Perfect for business cards, marketing materials, websites, and more.",
+    "type": "website",
+    "image": "/images/og-image.png",
+    "imageAlt": "QuickQR Pro QR Code Generator Preview",
+    "imageWidth": "1200",
+    "imageHeight": "630",
+    "siteName": "QuickQR Pro"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "site": "@quickqrpro",
+    "creator": "@quickqrpro",
+    "title": "QuickQR Pro - Easy QR Code Generation",
+    "description": "Create stunning QR codes with custom colors, logos, and designs. Download in PNG, SVG, or PDF format.",
+    "image": "/images/twitter-card.png",
+    "imageAlt": "QuickQR Pro QR Code Generator Interface"
+  },
+  "structuredData": {
+    "organization": {
+      "@type": "Organization",
+      "name": "QuickQR Pro",
+      "url": "https://quickqrpro.com",
+      "logo": "https://quickqrpro.com/images/logo.png",
+      "sameAs": [
+        "https://twitter.com/quickqrpro",
+        "https://github.com/quickqrpro"
+      ]
+    },
+    "website": {
+      "@type": "WebSite",
+      "name": "QuickQR Pro",
+      "url": "https://quickqrpro.com",
+      "description": "Free online QR code generator with customization options",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://quickqrpro.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    "softwareApplication": {
+      "@type": "SoftwareApplication",
+      "name": "QuickQR Pro",
+      "operatingSystem": "Web",
+      "applicationCategory": "UtilitiesApplication",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      }
+    }
+  },
+  "pages": {
+    "home": {
+      "title": "QuickQR Pro - Free QR Code Generator | Create Custom QR Codes",
+      "description": "Generate QR codes for URLs, WiFi, vCards, and more. Customize with colors and logos. Free, fast, and no registration required.",
+      "keywords": "QR code generator, free QR code, custom QR code, QR maker, URL to QR"
+    },
+    "templates": {
+      "title": "QR Code Templates | QuickQR Pro",
+      "description": "Choose from dozens of professionally designed QR code templates for business cards, marketing materials, and more.",
+      "keywords": "QR code templates, QR design templates, custom QR templates, business QR codes"
+    },
+    "analytics": {
+      "title": "QR Code Analytics & Tracking | QuickQR Pro",
+      "description": "Track and analyze QR code scans with detailed analytics. Monitor performance and optimize your QR code campaigns.",
+      "keywords": "QR code analytics, QR code tracking, QR code statistics, scan analytics"
+    },
+    "api-docs": {
+      "title": "QR Code API Documentation | QuickQR Pro",
+      "description": "Integrate QR code generation into your applications with our simple and powerful API. Full documentation and code examples.",
+      "keywords": "QR code API, QR generation API, QR code integration, developer API"
+    },
+    "pro-features": {
+      "title": "Premium QR Code Features | QuickQR Pro",
+      "description": "Unlock advanced QR code features with QuickQR Pro premium. Bulk generation, advanced analytics, and more.",
+      "keywords": "premium QR features, advanced QR codes, bulk QR generation, QR code subscription"
+    }
+  },
+  "advanced": {
+    "robots": "index, follow",
+    "googleSiteVerification": "",
+    "bingSiteVerification": "",
+    "pinterestVerification": "",
+    "yandexVerification": "",
+    "alternateLanguages": [
+      {
+        "hreflang": "en",
+        "href": "https://quickqrpro.com"
+      },
+      {
+        "hreflang": "es",
+        "href": "https://quickqrpro.com/es"
+      }
+    ],
+    "customHeadTags": [
+      "<meta name=\"theme-color\" content=\"#4F46E5\">",
+      "<link rel=\"manifest\" href=\"/manifest.json\">"
+    ]
+  },
+  "performance": {
+    "preconnect": [
+      "https://fonts.googleapis.com",
+      "https://fonts.gstatic.com"
+    ],
+    "preload": [
+      {
+        "href": "/fonts/inter-var.woff2",
+        "as": "font",
+        "type": "font/woff2",
+        "crossorigin": true
+      }
+    ]
+  }
+}

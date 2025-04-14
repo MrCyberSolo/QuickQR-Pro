@@ -1,0 +1,33 @@
+{
+  "seo": {
+    "title": "QuickQR Pro - Easy QR Code Generator",
+    "description": "Generate customizable QR codes for URLs, WiFi, vCards, and more with QuickQR Pro. No sign-up required.",
+    "keywords": "QR code, QR generator, QR code maker, free QR code, custom QR",
+    "ogImage": "/images/og-image.png",
+    "twitterCard": "summary_large_image",
+    "favicon": "/favicon.ico"
+  },
+  "branding": {
+    "siteName": "QuickQR Pro",
+    "logo": "/images/logo.svg",
+    "primaryColor": "#4F46E5",
+    "secondaryColor": "#818CF8",
+    "customDomain": "dynamic-balancig.com",
+    "apiDomain": "api.dynamic-balancig.com"
+  },
+  "contact": {
+    "email": "support@quickqrpro.com",
+    "twitter": "@quickqrpro",
+    "github": "quickqrpro"
+  },
+  "admin": {
+    "username": "admin",
+    "password": "quickqr2025"
+  },
+  "features": {
+    "enableAnalytics": true,
+    "enableTemplates": true,
+    "enableCustomization": true,
+    "enableBulkGeneration": false
+  }
+}
